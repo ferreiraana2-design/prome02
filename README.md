@@ -24,3 +24,12 @@ Este repositório contém a página inicial do projeto **Prome**, desenvolvida e
 ## Status
 
 Projeto em desenvolvimento.
+
+# Verificador de maioridade
+
+Projeto simples em HTML + JavaScript para verificar se a pessoa é maior de idade.
+
+## Como usar
+1. Abra o arquivo `2.html` no navegador.
+2. Digite a idade.
+3. Clique em "Verificar".
